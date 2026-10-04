@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace = "com.sergioromero.gogym"
+    namespace = "com.sergioromero.simplegym"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "com.sergioromero.gogym"
+        applicationId = "com.sergioromero.simplegym"
         minSdk = 34
         targetSdk = 37
         versionCode = 1
