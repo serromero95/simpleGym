@@ -1,4 +1,4 @@
-package com.sergioromero.gogym
+package com.sergioromero.simplegym
 
 import org.junit.Test
 

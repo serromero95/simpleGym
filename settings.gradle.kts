@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "GoGym"
+rootProject.name = "SimpleGym"
 include(":app")
  
